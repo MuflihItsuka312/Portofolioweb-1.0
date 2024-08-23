@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="-5.561 -6.561 45.121 45.121">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="34" height="32"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#clip-path)">
+    <image id="Layer_0" data-name="Layer 0" x="5" y="2" width="24" height="25" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAASCAYAAAC9+TVUAAABWklEQVQ4jaXTv0vWURTH8deTVk8iZtCU1eDWoJMRgpIQRIpDQbOIiKv/gVhDEEE4Ork5uDooQgQKFg6uOimIgiL9UMjfCXLhPPDly/MD68Dl/jzve+7nnFv49e2dKtaIZ1jBn3LH7nWOuVGNgL94g5Zqh2pBTtGM3v+BJDvByHUhj/EcDTH/iSe4HfP7eYf6MpBzjKKIPuzHegJ34BIfa0Wyh/GM80X0gxjGTqVI7qI1BHyNdtzEl5RFzGEAdTjLAn5/f19IkC4MoS1ETGvrOMZLHAWsO/aTJo/wMJ68lBy2MRn9bi7SHrzCC3zO7S1iGmsJshUt2S00RWQpgk+YQD9m4pIFrJY0K1exKTNPoy6STndCE1H2PzCfEb1idgp4iw8xr4t+OnRor5SdrM1lxpuZi75GK+YdapV9uv1Bbi39p2tBZuM5pS9Q1mpBNrAcIv8z5BBTOKh4Alfp1ENYgLfJfAAAAABJRU5ErkJggg=="/>
+  </g>
+</svg>
